@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Education/sem - V/ISE Design/multiplexer/mux_testbench_isim_beh.exe" -prj "D:/Education/sem - V/ISE Design/multiplexer/mux_testbench_beh.prj" "work.mux_testbench" 

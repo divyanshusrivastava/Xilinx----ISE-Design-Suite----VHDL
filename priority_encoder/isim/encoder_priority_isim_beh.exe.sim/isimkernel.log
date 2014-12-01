@@ -1,0 +1,29 @@
+Command line:
+   encoder_priority_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50629
+
+Tue Dec 02 01:38:41 2014
+
+
+ Elaboration Time: 0.218402 sec
+
+ Current Memory Usage: 681.353 Meg
+
+ Total Signals          : 2
+ Total Nets             : 11
+ Total Signal Drivers   : 8
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 371
+Total Line Count : 8
+
+ Total Simulation Time: 0.218402 sec
+
+ Current Memory Usage: 681.353 Meg
+
+Tue Dec 02 01:38:46 2014
+
