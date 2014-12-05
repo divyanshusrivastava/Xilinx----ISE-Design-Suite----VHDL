@@ -1,0 +1,2 @@
+vhdl isim_temp "encoder_priority.vhd"
+vhdl isim_temp "encoder_rpiority_testbench.vhd"

@@ -36,6 +36,7 @@
   <transforms xmlns="http://www.xilinx.com/XMLSchema">
     <transform xil_pn:end_ts="1417460984" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1417460984">
       <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
     </transform>
     <transform xil_pn:end_ts="1417461375" xil_pn:in_ck="-1922668311953274267" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1417461375">
       <status xil_pn:value="SuccessfullyRun"/>
@@ -64,6 +65,7 @@
     <transform xil_pn:end_ts="1417461383" xil_pn:in_ck="-1922668311953274267" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="819065899560332521" xil_pn:start_ts="1417461380">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
       <outfile xil_pn:name="demux_testbench_beh.prj"/>
       <outfile xil_pn:name="demux_testbench_isim_beh.exe"/>
       <outfile xil_pn:name="fuse.log"/>
@@ -73,6 +75,8 @@
     <transform xil_pn:end_ts="1417461523" xil_pn:in_ck="-7902831883740705839" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-6709589186970965194" xil_pn:start_ts="1417461523">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name="demux_testbench_isim_beh.wdb"/>

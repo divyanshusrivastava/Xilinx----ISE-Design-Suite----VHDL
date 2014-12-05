@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Education/sem - V/ISE Design/decoder3x8/decoder3x8_testbench_isim_beh.exe" -prj "D:/Education/sem - V/ISE Design/decoder3x8/decoder3x8_testbench_beh.prj" "work.decoder3x8_testbench" 

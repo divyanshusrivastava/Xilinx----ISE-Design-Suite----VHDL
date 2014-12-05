@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Education/sem - V/ISE Design/encoder_without_priority/encoder_wp_testbench_isim_beh.exe" -prj "D:/Education/sem - V/ISE Design/encoder_without_priority/encoder_wp_testbench_beh.prj" "work.encoder_wp_testbench" 

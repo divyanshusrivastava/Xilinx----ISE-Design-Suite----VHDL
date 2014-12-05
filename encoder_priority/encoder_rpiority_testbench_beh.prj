@@ -1,0 +1,2 @@
+vhdl work "encoder_priority.vhd"
+vhdl work "encoder_rpiority_testbench.vhd"

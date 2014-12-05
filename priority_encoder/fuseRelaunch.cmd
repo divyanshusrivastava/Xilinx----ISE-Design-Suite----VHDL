@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -lib "secureip" -o "D:/Education/sem - V/ISE Design/priority_encoder/encoder_priority_isim_beh.exe" -prj "D:/Education/sem - V/ISE Design/priority_encoder/encoder_priority_beh.prj" "work.encoder_priority" 

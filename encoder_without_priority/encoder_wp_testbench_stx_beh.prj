@@ -1,0 +1,2 @@
+vhdl isim_temp "encoder_without_priority.vhd"
+vhdl isim_temp "encoder_wp_testbench.vhd"

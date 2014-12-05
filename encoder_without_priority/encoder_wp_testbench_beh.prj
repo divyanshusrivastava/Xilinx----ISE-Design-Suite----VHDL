@@ -1,0 +1,2 @@
+vhdl work "encoder_without_priority.vhd"
+vhdl work "encoder_wp_testbench.vhd"
